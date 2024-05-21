@@ -6,3 +6,4 @@ Antes de rodar o notebook utilize o comando !pip3 install ortools para instalar 
 - Exercício 3: Alocação de Recursos
 - Exercício 4: Exemplo do uso de somatório
 - Exercício 5: Problema da Dieta
+- Exercício 6: Problema do Sítio
